@@ -1,0 +1,31 @@
+{
+  "name": "av4d2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarianL/av4d2.git"
+  },
+  "keywords": [
+    "dota2",
+    "rpg",
+    "dota2rpg",
+    "custom",
+    "game",
+    "server"
+  ],
+  "author": "AMHC-L",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarianL/av4d2/issues"
+  },
+  "homepage": "https://github.com/KarianL/av4d2#readme",
+  "dependencies": {
+    "mysql": "^2.7.0",
+    "restify": "^3.0.3"
+  }
+}
